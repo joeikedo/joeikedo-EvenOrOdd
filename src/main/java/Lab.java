@@ -15,7 +15,7 @@ public class Lab {
      */
     public String decide(int n){
         if((n % 2) == 0){
-            return "Even";
+            return "Even"; //comment to commit
         }
         else{
             return "Odd";
